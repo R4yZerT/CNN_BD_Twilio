@@ -1,0 +1,17 @@
+# Carpetas de datos y datasets
+lung_colon_image_set/
+data_flat/
+temp_data/
+
+# Entorno virtual y caché
+venv/
+__pycache__/
+.DS_Store
+
+# Modelos entrenados (archivos grandes)
+models/
+*.keras
+*.h5
+
+# Variables sensibles
+.env
